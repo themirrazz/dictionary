@@ -1,11 +1,33 @@
 {
     "ab": [],
     "absolute": [],
-    "ace": [],
+    "ace": [
+        {
+            "type": "noun",
+            "def": "The card that comes before '2' in a standard deck",
+            "ex": "They set an ace of spades down on the table."
+        },
+        {
+            "type": "verb",
+            "def": "To pass with flying colors very easily",
+            "ex": "The student aced her math assesment."
+        }
+    ],
     "accuracy": [],
     "accurate": [],
     "acne": [],
-    "add": [],
+    "add": [
+        {
+            "type": "verb",
+            "def": "To do addition",
+            "ex": "He added 1 to 2 and got 3."
+        },
+        {
+            "type": "verb",
+            "def": "To combine multiple items together",
+            "ex": "He added eggs to his shopping list."
+        }
+    ],
     "addition": [],
     "adventure": [],
     "advertisement": [],
@@ -13,30 +35,166 @@
     "advocate": [],
     "aid": [],
     "ajar": [],
-    "alarm": [],
-    "ampersand": [],
-    "amplification": [],
-    "amplifier": [],
+    "alarm": [
+        {
+            "type": "noun",
+            "def": "A device with loud, audible sounds and/or bright, flashing lights",
+            "ex": "The alarm went off when the burglar attempted to break in."
+        }
+    ],
+    "ampersand": [
+        {
+            "type": "noun",
+            "def": "A symbol that is used to represent the word 'and'"
+        }
+    ],
+    "amplification": [
+        {
+            "type": "noun",
+            "def": "The process in which one amplifies",
+            "ex": "She initiated amplification process."
+        }
+    ],
+    "amplifier": [
+        {
+            "type": "noun",
+            "def": "A system designed to amplify, usually sound",
+            "ex": "Loud bass played through the amplifier."
+        }
+    ],
     "amplify": [],
     "anus": [],
     "aparatus": [],
     "app": [],
-    "application": [],
+    "append": [
+        {
+            "type": "verb",
+            "def": "To add items together",
+            "ex": "She appended vacumming to his list of chores."
+        }
+    ],
+    "application": [
+        {
+            "type": "noun",
+            "def": "A piece of software",
+            "ex": "They downloaded the application to their phone."
+        },
+        {
+            "type": "noun",
+            "def": "A form that is filled out to apply for something",
+            "ex": "He filled out the job application within a day."
+        }
+    ],
     "ardvark": [],
     "area": [],
     "arena": [],
     "argue": [],
     "argument": [],
-    "arm": [],
-    "armed": [],
+    "arm": [
+        {
+            "type": "noun",
+            "def": "A body part attached to your shoulder and hand",
+            "ex": "He fell down the stairs and broke his arm."
+        },
+        {
+            "type": "verb",
+            "def": "To cause one to enter the state of being armed",
+            "ex": "She armed herself when she saw the robber."
+        }
+    ],
+    "armed": [
+        {
+            "type": "noun",
+            "def": "The state of being ready to attack or defend",
+            "ex": "The troops were armed and ready to fire at will."
+        }
+    ],
     "armor": [],
-    "arrow": [],
+    "arrow": [
+        {
+            "type": "noun",
+            "def": "A shape that points to a specific direction",
+            "ex": "The sign had an arrow that pointed to the beach."
+        },
+        {
+            "type": "noun",
+            "def": "A projectile fired from a bow or crossbow",
+            "ex": "He fired his arrow at the wild bear."
+        }
+    ],
     "arse": [],
     "asteroid": [],
-    "ass": [],
+    "ass": [
+        {
+            "type": "noun",
+            "def": "A donkey",
+            "ex": "She rode on her ass through town"
+        },
+        {
+            "type": "noun",
+            "def": "A person's anus or buttocks",
+            "vulgar": true,
+            "informal": true,
+            "ex": "He ploped onto the couch, landing on his ass."
+        }
+    ],
+    "assist": [
+        {
+            "type": "verb",
+            "def": "To help out",
+            "formal": true,
+            "ex": "He asked if there was anything he could assist with."
+        }
+    ],
     "assess": [],
     "assesment": [],
     "asset": [],
     "assign": [],
     "assignment": [],
+    "babble": [],
+    "babe": [],
+    "baby": [],
+    "back": [],
+    "backwards": [],
+    "bad": [],
+    "baffled": [],
+    "bag": [],
+    "ball": [],
+    "banter": [],
+    "baptise": [],
+    "baptism": [],
+    "baptist": [],
+    "bar": [],
+    "bartender": [],
+    "base": [],
+    "baseball": [],
+    "basket": [],
+    "basketball": [],
+    "bastard": [],
+    "bat": [],
+    "batty": [],
+    "bed": [],
+    "befriend": [],
+    "beg": [],
+    "bend": [],
+    "bent": [],
+    "better": [
+        {
+            "type": "adjective",
+            "def": "Being of a higher quality than another",
+            "ex": "The Mixomix 2000 was better than their previous mixer."
+        }
+    ],
+    "betray": [],
+    "bib": [],
+    "bid": [],
+    "bidder": [],
+    "big": [],
+    "biggot": [],
+    "bike": [],
+    "bill": [],
+    "bin": [],
+    "birb": [],
+    "birch": [],
+    "bird": [],
 }
