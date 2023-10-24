@@ -151,21 +151,80 @@
     "asset": [],
     "assign": [],
     "assignment": [],
-    "babble": [],
+    "babble": [
+        {
+            "type": "verb",
+            "def": "To speak random or uninterpretable things",
+            "ex": "They babbled on and on."
+        }
+    ],
     "babe": [],
-    "baby": [],
+    "baby": [
+        {
+            "type": "noun",
+            "def": "A newborn child",
+            "ex": "The baby giggled at the sight of the toy."
+        }
+    ],
     "back": [],
     "backwards": [],
     "bad": [],
     "baffled": [],
     "bag": [],
-    "ball": [],
-    "banter": [],
+    "ball": [
+        {
+            "type": "noun",
+            "def": "A round shape with no sides; a 3D circle",
+            "ex": "She hit the ball with a ping-pong paddle."
+        },
+        {
+            "type": "noun",
+            "def": "Testicles",
+            "slang": true,
+            "ex": "He got hit in the balls during the wrestling match."
+        }
+    ],
+    "banter": [
+        {
+            "type": "noun",
+            "def": "Casual conversation",
+            "ex": "They had lively banter at the wedding reception."
+        }
+    ],
     "baptise": [],
-    "baptism": [],
-    "baptist": [],
-    "bar": [],
-    "bartender": [],
+    "baptism": [
+        {
+            "type": "noun",
+            "def": "An event in which a person becomes baptised",
+            "ex": "He sent out invitations to his baptism."
+        }
+    ],
+    "baptist": [
+        {
+            "type": "noun",
+            "def": "A person who performs a baptism",
+            "ex": "The baptist slowly pulled her from under the water."
+        }
+    ],
+    "bar": [
+        {
+            "type": "noun",
+            "def": "A long pole",
+            "ex": "She pulled herself up on the pull-up bar."
+        },
+        {
+            "type": "noun",
+            "def": "A place that serves alcoholic beverages",
+            "ex": "They had some takila at the bar."
+        }
+    ],
+    "bartender": [
+        {
+            "type": "noun",
+            "def": "A person at a bar who serves alcoholic beverages",
+            "ex": "He asked the bartender for another shot."
+        }
+    ],
     "base": [],
     "baseball": [],
     "basket": [],
@@ -195,14 +254,45 @@
     "bill": [],
     "bin": [],
     "binary": [],
-    "birb": [],
+    "birb": [
+        {
+            "type": "noun",
+            "def": "A bird",
+            "slang": true,
+            "ex": "twitter birb"
+        }
+    ],
     "birch": [],
     "bird": [],
-    "birth": [],
+    "birth": [
+        {
+            "type": "noun",
+            "def": "The process of being born",
+            "ex": "She gave birth to her son."
+        },
+        {
+            "type": "verb",
+            "def": "To be birthed; to be born",
+            "ex": "Finally, the baby had been birthed."
+        }
+    ],
     "birthday": [],
-    "bit": [],
+    "bit": [
+        {
+            "type": "noun",
+            "def": "Data making up a byte that can either be a one or a zero",
+            "ex": "He upgraded to a 64-bit gaming PC."
+        }
+    ],
     "bits": [],
-    "bitch": [],
+    "bitch": [
+        {
+            "type": "noun",
+            "def": "A female dog",
+            "vulgar": true,
+            "ex": "The bitch chased the ball down the field"
+        }
+    ],
     "bite": [],
     "black": [],
     "blame": [],
@@ -224,8 +314,28 @@
     "blob": [],
     "block": [],
     "blonde": [],
-    "blood": [],
-    "bloody": [],
+    "blood": [
+        {
+            "type": "noun",
+            "def": "A red bodily fluid pumped throughout your body",
+            "ex": "A trickle of blood came out of their cut."
+        }
+    ],
+    "bloody": [
+        {
+            "type": "adjective",
+            "def": "Covered in blood",
+            "ex": "She was covered in blood after witnessing the murder."
+        },
+        {
+            "type": "adjective",
+            "def": "Damn",
+            "vulgar": true,
+            "informal": true,
+            "british": true,
+            "ex": "I don't want your bloody car, mate!"
+        }
+    ],
     "bloom": [],
     "blue": [],
     "bluff": [],
@@ -245,18 +355,38 @@
     "bore": [],
     "bored": [],
     "boring": [],
-    "boss": [],
+    "boss": [
+        {
+            "type": "noun",
+            "def": "A title given to the person in charge",
+            "ex": "You're the boss, boss!"
+        }
+    ],
     "bother": [],
     "bow": [],
     "box": [],
     "boxy": [],
     "brand": [],
-    "brat": [],
+    "brat": [
+        {
+            "type": "noun",
+            "def": "An annoying person",
+            "informal": "true",
+            "ex": "The little brat knocked over his tower of blocks."
+        }
+    ],
     "brawl": [],
     "brave": [],
-    "bread": [],
+    "bread": [
+        {
+            "type": "noun",
+            "def": "A food made from wheat and dough",
+            "ex": "They put their bread into the toaster."
+        }
+    ],
     "breach": [],
-    "break": []
+    "break": [],
+    "breakfast": [],
     "breast": [],
     "bride": [],
     "bridge": [],
@@ -267,11 +397,23 @@
     "brocoli": [],
     "brock": [],
     "bronze": [],
-    "brother": [],
+    "brother": [
+        {
+            "type": "noun",
+            "def": "A male sibling",
+            "ex": "She loved her brother with all her heart."
+        }
+    ],
     "brow": [],
     "buddy": [],
     "buck": [],
-    "buff": [],
+    "buff": [
+        {
+            "type": "adjective",
+            "def": "Very strong and manly looking",
+            "ex": "He was very buff."
+        }
+    ],
     "bug": [],
     "bugger": [],
     "bull": [],
@@ -279,7 +421,13 @@
     "bun": [],
     "buoy": [],
     "bury": [],
-    "burial": [],
+    "burial": [
+        {
+            "type": "noun",
+            "def": "An event celebrating a deceased one's life; a funeral",
+            "ex": "They all grieved and cried at the burial."
+        }
+    ],
     "bus": [],
     "bust": [],
     "butt": [],
@@ -293,7 +441,13 @@
     "cage": [],
     "caged": [],
     "call": [],
-    "camera": [],
+    "camera": [
+        {
+            "type": "noun",
+            "def": "A device used to take pictures",
+            "ex": "The group smiled as they captured the moment with their camera."
+        }
+    ],
     "camp": [],
     "camper": [],
     "canteen": [],
@@ -306,7 +460,13 @@
     "cargo": [],
     "cart": [],
     "cat": [],
-    "catastrophe": [],
+    "catastrophe": [
+        {
+            "type": "noun",
+            "def": "A huge disaster",
+            "ex": "Her attempt to bake a pie was a catastrophe."
+        }
+    ],
     "ceiling": [],
     "celestial": [],
     "cello": [],
@@ -315,11 +475,30 @@
     "certify": [],
     "chandelier": [],
     "champion": [],
-    "chao": [],
+    "chao": [
+        {
+            "type": "noun",
+            "def": "A small species that flies using wings",
+            "mobian": true,
+            "ex": "She accidentally stumbled across a Chao garden."
+        }
+    ],
     "charcoal": [],
-    "charred": [],
+    "charred": [
+        {
+            "type": "adjective",
+            "def": "Burnt and blackened",
+            "ex": "After it was put out, the wood in the fireplace was charred."
+        }
+    ],
     "chastity": [],
-    "check": [],
+    "check": [
+        {
+            "type": "noun",
+            "def": "A form of money that requires a signature",
+            "ex": "He happily signed the check for his grandaughter's birthday party."
+        }
+    ],
     "cheek": [],
     "cheeky": [],
     "chimp": [],
@@ -337,23 +516,46 @@
     "clap": [],
     "class": [],
     "clay": [],
-    "clean": [],
+    "clean": [
+        {
+            "type": "adjective",
+            "def": "not dirty",
+            "ex": "The sheets are clean."
+        }
+    ],
     "click": [],
     "cliff": [],
     "climate": [],
     "climb": [],
-    "climber": [],
+    "climber": [
+        {
+            "type": "noun",
+            "def": "A person who climbs",
+            "ex": "Aim to be the T.O.P. Climber"
+        }
+    ],
     "clingy": [],
     "clip": [],
     "clobber": [],
-    "clock": [],
+    "clock": [
+        {
+            "type": "noun",
+            "def": "A device that tells the current time",
+            "ex": "The clock showed that it was almost midnight."
+        },
+        {
+            "type": "noun",
+            "def": "The system in a computer that keeps track of time",
+            "ex": "My laptop's battery died, and now its clock is wrong."
+        }
+    ],
     "clog": [],
     "close": [],
     "closet": [],
     "clot": [],
     "club": [],
     "clump": [],
-    "clustuer": [],
+    "cluster": [],
     "coax": [],
     "cob": [],
     "cock": [],
@@ -362,7 +564,13 @@
     "code": [],
     "cog": [],
     "column": [],
-    "cold": [],
+    "cold": [
+        {
+            "type": "adjective",
+            "def": "Having a unreasonably low temperature",
+            "ex": "They walked into the cold tundra."
+        }
+    ],
     "communication": [],
     "communicator": [],
     "condescending": [],
@@ -389,9 +597,32 @@
     "coward": [],
     "dab": [],
     "dad": [],
-    "dagger": [],
-    "dam": [],
-    "damn": [],
+    "dagger": [
+        {
+            "type": "noun",
+            "def": "A type of knife",
+            "ex": "She looked at the dagger on the counter."
+        }
+    ],
+    "dam": [
+        {
+            "type": "noun",
+            "def": "A system that controls the flow of large bodies of water",
+            "ex": "The dam was closed to prevent flooding."
+        }
+    ],
+    "damn": [
+        {
+            "type": "verb",
+            "def": "To condemn",
+            "ex": "He was damned to hell for his sins."
+        },
+        {
+            "type": "exclamation",
+            "def": "A word used to convey strong anger, fear, or surprise",
+            "ex": "Where's that damn fourth Chaos Emerald?"
+        }
+    ],
     "dare": [],
     "daring": [],
     "dark": [],
@@ -401,7 +632,13 @@
     "day": [],
     "daze": [],
     "dead": [],
-    "deaf": [],
+    "deaf": [
+        {
+            "type": "adjective",
+            "def": "A person who is hard of hearing",
+            "ex": "They were deaf."
+        }
+    ],
     "dean": [],
     "death": [],
     "deceased": [],
@@ -410,11 +647,23 @@
     "decrease": [],
     "decrement": [],
     "deed": [],
-    "defecate": [],
+    "defecate": [
+        {
+            "type": "verb",
+            "def": "To leave feces or droppings; to poop",
+            "ex": "The dog defecated on the stairs."
+        }
+    ],
     "den": [],
     "dent": [],
     "deprecated": [],
-    "deranged": [],
+    "deranged": [
+        {
+            "type": "adjective",
+            "def": "Dangerously crazy; psychotic",
+            "ex": "The mad scientist was deranged."
+        }
+    ],
     "desperate": [],
     "destination": [],
     "destined": [],
@@ -423,8 +672,20 @@
     "dew": [],
     "diabolical": [],
     "dick": [],
-    "die": [],
-    "different": [],
+    "die": [
+        {
+            "type": "verb",
+            "def": "To become dead",
+            "ex": "She died."
+        }
+    ],
+    "different": [
+        {
+            "type": "adjective",
+            "def": "Not similar",
+            "ex": "He was different from her."
+        }
+    ],
     "dig": [],
     "dill": [],
     "dim": [],
@@ -434,7 +695,13 @@
     "dipper": [],
     "directory": [],
     "dirt": [],
-    "dirty": [],
+    "dirty": [
+        {
+            "type": "adjective",
+            "def": "Covered in dirt; unclean",
+            "ex": "After camping, she was all dirty."
+        }
+    ],
     "diss": [],
     "disintegrate": [],
     "distilled": [],
@@ -449,15 +716,41 @@
     "dong": [],
     "dongle": [],
     "doom": [],
-    "dope": [],
+    "dope": [
+        {
+            "type": "adjective",
+            "def": "Cool",
+            "informal": "true",
+            "ex": "His setup was very dope!"
+        }
+    ],
     "dot": [],
-    "dotted": [],
+    "dotted": [
+        {
+            "type": "adjective",
+            "def": "Made out of dots",
+            "ex": "The slideshow had a dotted border."
+        },
+        {
+            "type": "adjective",
+            "def": "Covered randomly with small things",
+            "ex": "The map was dotted with hospitals."
+        }
+    ],
     "dough": [],
     "dub": [],
     "duck": [],
     "duct": [],
     "dud": [],
-    "dude": [],
+    "dude": [
+        {
+            "type": "noun",
+            "def": "A cool person",
+            "slang": true,
+            "ex": "hes a cool dood",
+            "alternativeSpellings": [ "dood" ]
+        }
+    ],
     "due": [],
     "dull": [],
     "dumb": [],
