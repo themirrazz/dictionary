@@ -1,0 +1,47 @@
+[
+    {
+        "wh": "hell",
+        "lit": "A fiery place where sinners are sent",
+        "ex": [
+            "What the hell is going on here?",
+            "Get the hell out of my house!",
+            "Go to hell!"
+        ],
+    },
+    {
+        "wh": "damn",
+        "lit": "To condemn",
+        "ex": [
+            "Damn you!",
+            "Damn! I locked my keys in the car!",
+            "Damn it!",
+            "I'll be damned.",
+            "I don't give a damn about your sob story!",
+            "What is wrong with this damn remote?"
+        ]
+    },
+    {
+        "wh": "ass",
+        "lit": "A donkey; buttocks",
+        "ex": [
+            "Kick his ass!",
+            "Get off your lazy ass and start helping out!",
+            "Manager my ass!",
+            "You little dumbass!",
+            "Don't talk like that to me, you smartass.",
+            "Woah! That was really badass what you did back there!",
+            "Stop being such an asshat.",
+            "I guess we were both kinda being assholes."
+        ]
+    },
+    {
+        "wh": "shit",
+        "lit": "Feces; to defecate",
+        "ex": [
+            "Holy shit, that was amazing!",
+            "Help me, I got the shits!",
+            "You're such a shithead.",
+            "I'm not dealing with that shit."
+        ]
+    }
+]
