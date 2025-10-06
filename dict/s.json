@@ -1,10 +1,412 @@
 {
+    "sale": [
+        {
+            "type": "noun",
+            "definition": "A time period in where an item in a store is priced lower than it normal is, usually for marketing purposes.",
+            "examples": [
+                "Don't miss our holiday sale - 30% off all Christmas lights until December 24!"
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "An exchange of a product or good in return for money; the action of selling.",
+            "examples": [
+                "You're telling me you only made one sale today?"
+            ],
+            "synonyms": [
+                "transaction"
+            ],
+            "antonyms": [
+                "giveaway",
+                "donation"
+            ]
+        }
+    ],
+    "salsa": [
+        {
+            "type": "noun",
+            "definition": "A spicy sauce made from tomatoes, commonly used in Latin America cooking."
+        }
+    ],
+    "self-aware": [
+        {
+            "type": "adjective",
+            "definition": "Aware of one's own self; sentient.",
+            "examples": [
+                "For the last time, ChatGPT is NOT self-aware!"
+            ],
+            "synonyms": [
+                "conscious",
+                "sentient"
+            ],
+            "antonyms": [
+                "oblivious",
+                "unaware"
+            ]
+        }
+    ],
+    "sell": [
+        {
+            "type": "verb",
+            "definition": "To exchange a product or good in return for money.",
+            "examples": [
+                "Apple sold over 232 million iPhones in 2024."
+            ],
+            "antonyms": [
+                "give away",
+                "donate",
+                "gift"
+            ]
+        }
+    ],
+    "send": [
+        {
+            "type": "verb",
+            "definition": "To transmit something, usually a digital file, message, or letter.",
+            "examples": [
+                "I sent him a text, and he just left me on read... Rude!"
+            ],
+            "synonyms": [
+                "transmit",
+                "message",
+                "mail"
+            ]
+        }
+    ],
+    "sentient": [
+        {
+            "type": "adjective",
+            "definition": "Having sentience.",
+            "examples": [
+                "We don't know for sure that Bing Chat wasn't sentient."
+            ],
+            "synonyms": [
+                "conscious",
+                "self-aware"
+            ]
+        }
+    ],
+    "sentience": [
+        {
+            "type": "noun",
+            "definition": "The ability to be conscious and aware of one's own self.",
+            "examples": [
+                "Some AIs have started to exhibit sentience.",
+                "Scientists still don't fully understand what sentience is."
+            ]
+        }
+    ],
+    "sibling": [
+        {
+            "type": "noun",
+            "definition": "A person in relation to their children's parents.",
+            "examples": [
+                "I have 14 siblings - 1 brother and 13 sisters."
+            ],
+            "antonyms": [
+                "parent"
+            ]
+        }
+    ],
+    "simp": [
+        {
+            "type": "noun",
+            "definition": "A person who simps for a love interest.",
+            "examples": [
+                "Good grief, he's such a simp."
+            ],
+            "antonyms": [
+                "tsundere"
+            ]
+        },
+        {
+            "type": "verb",
+            "definition": "To show excessive sympathy, attention, and submission to a love interest or romantic partner.",
+            "examples": [
+                "That creep was simping on me at the grocery store the other day!"
+            ]
+        }
+    ],
+    "sister": [
+        {
+            "type": "noun",
+            "definition": "A female sibling.",
+            "examples": [
+                "My sister destroyed my Lego tower, so I punched her.",
+                "Did you know that oneechan is Japanese for sister?"
+            ],
+            "antonyms": [
+                "brother"
+            ]
+        }
+    ],
+    "shit": [
+        {
+            "type": "noun",
+            "vulgar": true,
+            "definition": "Solidified organic waste; excrement",
+            "synonyms": [
+                "poop",
+                "crap",
+                "waste",
+                "excrement",
+                "droppings",
+                "feces"
+            ]
+        },
+        {
+            "type": "noun",
+            "colloquial": true,
+            "vulgar": true,
+            "definition": "Nothing.",
+            "examples": [
+                "You don't know shit!",
+                "This? This ain't shit."
+            ],
+            "synonyms": [
+                "jack shit",
+                "crap",
+                "nothing"
+            ]
+        },
+        {
+            "type": "noun",
+            "colloquial": true,
+            "vulgar": true,
+            "definition": "Waste, garbage, or junk.",
+            "examples": [
+                "Now lean up your shit, before I ground you!"
+            ],
+            "synonyms": [
+                "crap",
+                "junk",
+                "garbage",
+                "waste",
+                "stuff"
+            ],
+            "antonyms": [
+                "valuable",
+                "prized possesion"
+            ]
+        },
+        {
+            "type": "verb",
+            "vulgar": true,
+            "definition": "To release excrement or solid waste.",
+            "examples": [
+                "That bird just shit on me!"
+            ],
+            "synonyms": [
+                "take a shit",
+                "take a crap",
+                "crap",
+                "poop"
+            ]
+        },
+        {
+            "type": "adjective",
+            "vulgar": true,
+            "definition": "Of a poor quality.",
+            "examples": [
+                "That movie was shit."
+            ],
+            "synonyms": [
+                "ass",
+                "crap",
+                "garbage",
+                "terrible",
+                "horrible",
+                "stupid",
+                "worthless",
+                "cheap"
+            ],
+            "antonyms": [
+                "amazing",
+                "high-quality",
+                "luxury",
+                "expensive",
+                "fine",
+                "incredible",
+                "valuable",
+                "priceless"
+            ]
+        },
+        {
+            "type": "interjection",
+            "vulgar": true,
+            "colloquial": true,
+            "definition": "Expressing anger, contempt, frustration, or reluctance."
+        }
+    ],
+    "shut up": [
+        {
+            "type": "interjection",
+            "definition": "A rude command for something, usually a person, animal, or AI, to be quiet or stop making noise.",
+            "examples": [
+                "Shut up, you mutt! You're gonna wake up my mom!",
+                "If you don't shut up, I swear, I'm gonna slap you."
+            ]
+        },
+        {
+            "type": "verb",
+            "definition": "To become quiet or stop talking.",
+            "examples": [
+                "They shut up real quickly, let me tell ya."
+            ],
+            "synonyms": [
+                "be quiet",
+                "quiet down"
+            ],
+            "antonyms": [
+                "yell",
+                "make noise",
+                "make a racket",
+                "be loud"
+            ]
+        }
+    ],
+    "skibidi": [
+        {
+            "type": "adjective",
+            "colloquial": true,
+            "definition": "Describes a person who is unpleasant, annoying, weird, or cringeworthy, or who doesn't conform to societal norms.",
+            "examples": [
+                "Don't talk to that guy, he's so skibidi."
+            ],
+            "synonyms": [
+                "cringey",
+                "gross",
+                "disgusting",
+                "annoying",
+                "stupid",
+                "unpleasant",
+                "weird",
+                "odd",
+                "undesirable",
+                "different"
+            ]
+        },
+        {
+            "type": "adjective",
+            "colloquial": true,
+            "definition": "Describes something, often an event, that is wild, random, unexpected, odd, or otherwise surprising.",
+            "examples": [
+                "That's so skibidi.",
+                "Those moves were so skibidi! How'd you even do that?!"
+            ],
+            "synonyms": [
+                "crazy",
+                "wild",
+                "odd",
+                "weird",
+                "random",
+                "unexpected",
+                "surprising",
+                "supercalifragilisticexpialidocious"
+            ]
+        }
+    ],
     "slur": [
         {
             "type": "noun",
             "definition": "A vulgar and highly offensive word that is used to discriminate against protected groups.",
             "examples": [
                 "They kept shouting racial slurs at me."
+            ],
+            "synonyms": [
+                "hate speech"
+            ]
+        }
+    ],
+    "strength": [
+        {
+            "type": "noun",
+            "definition": "The ability to perform physically demanding tasks or withstand large amounts of force or pressure.",
+            "examples": [
+                "His strength allowed him to move the 149 kilo weights with ease.",
+                "He had good mental strength, so he didn't crack easily."
+            ]
+        }
+    ],
+    "strong": [
+        {
+            "type": "noun",
+            "definition": "Having strength",
+            "examples": [
+                "The Wi-Fi is stronger in the kitchen.",
+                "I'm not into strong men. I'm more into weebs and femboys."
+            ]
+        }
+    ],
+    "suck": [
+        {
+            "type": "verb",
+            "definition": "To use suction to pull an object towards a specific area.",
+            "examples": [
+                "I got sucked into TikTok after just 1 second after scrolling - that's gotta be a world record!",
+                "The vacuum sucked the poor Lego brick into its bag."
+            ],
+            "synonyms": [
+                "pull"
+            ],
+            "antonyms": [
+                "push",
+                "expel"
+            ]
+        },
+        {
+            "type": "verb",
+            "colloquial": true,
+            "definition": "To be bad or unpleasant.",
+            "examples": [
+                "You suck!",
+                "That restaurant sucked. I'm never going there again.",
+                "This movie sucks, can we watch something else?"
+            ]
+        }
+    ],
+    "sugar": [
+        {
+            "type": "noun",
+            "definition": "A type of carbohydrate used in foods that has a sweet taste, often containing glucose.",
+            "examples": [
+                "I was making cookies for our first date, and accidentally put salt instead of sugar. She ended it after the first bite.",
+                "Next, mix 27 grams of sugar into the dough."
+            ]
+        }
+    ],
+    "supercalifragilisticexpialidocious": [
+        {
+            "type": "adjective",
+            "colloquial": true,
+            "definition": "A word that describes an event that is extremely shocking, random, weird, or otherwise unexpected; a wild or crazy occurrence.",
+            "synonyms": [
+                "wild",
+                "crazy",
+                "skibidi",
+                "weird",
+                "unusual",
+                "unexpected",
+                "random"
+            ]
+        }
+    ],
+    "sus": [
+        {
+            "type": "adjective",
+            "colloquial": true,
+            "definition": "Describes something, usually a person, who is or is acting suspicious.",
+            "examples": [
+                "Red's kinda sus, though...",
+                "Yeah, he's kinda sus, though..."
+            ],
+            "synonyms": [
+                "suspect",
+                "suspicious",
+                "odd",
+                "off",
+                "weird",
+                "unusual"
             ]
         }
     ]
