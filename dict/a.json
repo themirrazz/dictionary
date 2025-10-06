@@ -1,0 +1,141 @@
+{
+    "abacus": [
+        {
+            "type": "noun",
+            "definition": "A tool used for calculations that involves moving beads on rods",
+            "examples": [
+                "He played with the beads on his abacus."
+            ]
+        }
+    ],
+    "ace": [
+        {
+            "type": "noun",
+            "definition": "A playing card with a single marking.",
+            "examples": [
+                "They showed me an ace of hearts."
+            ]
+        },
+        {
+            "type": "verb",
+            "definition": "To pass with flying colors.",
+            "colloquial": true,
+            "examples": [
+                "Damn, she aced that test!"
+            ]
+        }
+    ],
+    "acne": [
+        {
+            "type": "noun",
+            "definition": "A skin condition that causes zits, pimples, or blackheads.",
+            "examples": [
+                "He had too much acne."
+            ]
+        }
+    ],
+    "aid": [
+        {
+            "type": "noun",
+            "definition": "Help.",
+            "examples": [
+                "You might be eligible for financial aid."
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "To help or assist.",
+            "examples": [
+                "I aided him to the nearby hostpital."
+            ]
+        }
+    ],
+    "alligator": [
+        {
+            "type": "noun",
+            "definition": "A large Crocodilian semi-aquatic reptile.",
+            "examples": [
+                "Oh my Chaos, it's an alligator!",
+                "Invisible alligators appreciate calculators."
+            ]
+        }
+    ],
+    "apple": [
+        {
+            "type": "noun",
+            "definition": "A round fruit, usually red, green, or yellow, that comes from the rose tree family",
+            "examples": [
+                "An apple away keeps the doctor away."
+            ]
+        }
+    ],
+    "ass": [
+        {
+            "type": "noun",
+            "definition": "A donkey.",
+            "archaic": true,
+            "examples": [
+                "He rode to town on his ass."
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "One's anus.",
+            "vulgar": true,
+            "examples": [
+                "She has one thicc ass.",
+                "Hey, get up off your lazy ass!"
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "A stupid, contemptible, or annoying person.",
+            "vulgar": true,
+            "examples": [
+                "Don't be an ass."
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "An asset, usually a screenshot of an error dialog or popup message",
+            "dialect": "crazy_error",
+            "colloquial": true,
+            "examples": [
+                "Got any KDE ass?"
+            ]
+        }
+    ],
+    "asset": [
+        {
+            "type": "noun",
+            "definition": "A person or object that is useful or of value.",
+            "examples": [
+                "The spy was an invaluable asset to the mission."
+            ]
+        }
+    ],
+    "asshole": [
+        {
+            "type": "noun",
+            "definition": "The hole in one's anus.",
+            "vulgar": true
+        },
+        {
+            "type": "noun",
+            "definition": "A stupid, contemptible, or annoying person.",
+            "vulgar": true,
+            "examples": [
+                "My ex is such an asshole."
+            ]
+        }
+    ],
+    "assist": [
+        {
+            "type": "verb",
+            "definition": "To help.",
+            "examples": [
+                "Hello! How may I assist you today?"
+            ]
+        }
+    ]
+}
