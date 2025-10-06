@@ -1,0 +1,25 @@
+{
+    "meow": [
+        {
+            "type": "noun",
+            "definition": "The sound a cat makes.",
+            "examples": [
+                "My cat let out a soft meow. Then he bit me."
+            ]
+        },
+        {
+            "type": "verb",
+            "definition": "To make a meowing sound.",
+            "examples": [
+                "My cat meowed softly. Then he bit me."
+            ]
+        },
+        {
+            "type": "onomatopoeia",
+            "definition": "A word that imitates the sound a cat makes.",
+            "examples": [
+                "Meowww"
+            ]
+        }
+    ]
+}

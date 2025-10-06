@@ -1,0 +1,68 @@
+{
+    "gadget": [
+        {
+            "type": "noun",
+            "definition": "An unusual device that serves a practical utility.",
+            "examples": [
+                "He wouldn't stop fiddling with his gizmos and gadgets."
+            ]
+        }
+    ],
+    "game": [
+        {
+            "type": "noun",
+            "definition": "A type of game or sport, usually bound by certain rules.",
+            "examples": [
+                "Why don't we play a game?"
+            ]
+        }
+    ],
+    "gas": [
+        {
+            "type": "noun",
+            "definition": "Short for gasoline.",
+            "examples": [
+                "My car ran out of gas, and now I'm stranded on the freeway."
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "A state where matter will fill a container with no fixed volume or shape.",
+            "examples": [
+                "I left my water on the stove too long and it turned into gas."
+            ]
+        }
+    ],
+    "gassy": [
+        {
+            "type": "adjective",
+            "definition": "Used to describe a person or animal that farts a lot.",
+            "examples": [
+                "My girlfriend's a bit gassy."
+            ]
+        }
+    ],
+    "gay": [
+        {
+            "type": "adjective",
+            "definition": "Happy."
+        },
+        {
+            "type": "adjective",
+            "definition": "Used to describe someone, usually a male, who is homosexual."
+        },
+        {
+            "type": "noun",
+            "definition": "A gay person."
+        }
+    ],
+    "google": [
+        {
+            "type": "verb",
+            "definition": "To search on the web using the Google search engine.",
+            "examples": [
+                "I Google things. You ChatGPT them. We are not the same."
+            ]
+        }
+    ]
+}

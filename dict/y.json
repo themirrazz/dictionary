@@ -1,0 +1,36 @@
+{
+    "yandere": [
+        {
+            "type": "noun",
+            "definition": "A person who obsesses over a love interest, usually in a toxic and even dangerous way.",
+            "examples": [
+                "My ex was such a yandere, I literally had to get witness protection when I broke up with her."
+            ]
+        }
+    ],
+    "yellow": [
+        {
+            "type": "noun",
+            "definition": "The color on the spectrum between red and green.",
+            "examples": [
+                "Yellow is my favorite color."
+            ]
+        },
+        {
+            "type": "adjective",
+            "definition": "Being the color yellow.",
+            "examples": [
+                "The banana was yellow... Now it's brown."
+            ]
+        }
+    ],
+    "yes": [
+        {
+            "type": "interjection",
+            "definition": "A word that indicates agreement or an affirmative response.",
+            "examples": [
+                "Yes, I ran your PS5 over."
+            ]
+        }
+    ]
+}

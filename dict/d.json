@@ -1,0 +1,28 @@
+{
+    "damn": [
+        {
+            "type": "noun",
+            "archaic": true,
+            "definition": "To damage, destroy, or condem.",
+            "examples": [
+                "All sinners will be damned!"
+            ]
+        },
+        {
+            "type": "interjection",
+            "definition": "Used to express anger, surprise, or impression.",
+            "examples": [
+                "Damn, he's fine!"
+            ]
+        }
+    ],
+    "damn it": [
+        {
+            "type": "interjection",
+            "definition": "Used to express anger with a person, object, or situation.",
+            "examples": [
+                "Damn it, Ricky, I told you not to touch the bonsai!"
+            ]
+        }
+    ]
+}
