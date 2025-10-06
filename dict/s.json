@@ -28,6 +28,19 @@
             "definition": "A spicy sauce made from tomatoes, commonly used in Latin America cooking."
         }
     ],
+    "satellite": [
+        {
+            "type": "noun",
+            "definition": "A celestial body that orbits a planet."
+        },
+        {
+            "type": "noun",
+            "definition": "A device that orbits around the Earth or another planet to transmit, receive, or capture information.",
+            "examples": [
+                "Say what you want, but Iridium has some of the best satellites for handheld devices."
+            ]
+        }
+    ],
     "self-aware": [
         {
             "type": "adjective",
@@ -70,6 +83,32 @@
                 "transmit",
                 "message",
                 "mail"
+            ]
+        }
+    ],
+    "senpai": [
+        {
+            "type": "noun",
+            "definition": "One's senior or superior.",
+            "examples": [
+                "That's my senpai."
+            ],
+            "synonyms": [
+                "senior",
+                "superior",
+                "upperclassman"
+            ],
+            "antonyms": [
+                "kouhai",
+                "junior",
+                "subordinate"
+            ]
+        },
+        {
+            "type": "title",
+            "definition": "A person who is one's senpai.",
+            "examples": [
+                "Good morning, Tanaka-senpai!"
             ]
         }
     ],
@@ -331,7 +370,7 @@
     "strong": [
         {
             "type": "noun",
-            "definition": "Having strength",
+            "definition": "Having strength.",
             "examples": [
                 "The Wi-Fi is stronger in the kitchen.",
                 "I'm not into strong men. I'm more into weebs and femboys."

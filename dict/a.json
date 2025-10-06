@@ -97,6 +97,21 @@
             ]
         }
     ],
+    "arson": [
+        {
+            "type": "noun",
+            "definition": "The act of intentionally setting another's property on fire.",
+            "examples": [
+                "I committed arson."
+            ]
+        }
+    ],
+    "arsonist": [
+        {
+            "type": "noun",
+            "definition": "A person who commits arson."
+        }
+    ],
     "ass": [
         {
             "type": "noun",
@@ -128,6 +143,10 @@
             "colloquial": true,
             "examples": [
                 "Got any KDE ass?"
+            ],
+            "synonyms": [
+                "screenshot",
+                "asset"
             ]
         }
     ],
@@ -137,6 +156,16 @@
             "definition": "A person or object that is useful or of value.",
             "examples": [
                 "The spy was an invaluable asset to the mission."
+            ],
+            "synonyms": [
+                "valuable",
+                "tool"
+            ],
+            "antonyms": [
+                "garbage",
+                "trash",
+                "junk",
+                "crap"
             ]
         }
     ],
@@ -162,6 +191,21 @@
             "examples": [
                 "Hello! How may I assist you today?"
             ]
+        }
+    ],
+    "assistance": [
+        {
+            "type": "noun",
+            "definition": "The action of assisting.",
+            "examples": [
+                "If you need any assistance, please don't hesitate to reach out."
+            ]
+        }
+    ],
+    "assistant": [
+        {
+            "type": "noun",
+            "definition": "One who assists."
         }
     ]
 }

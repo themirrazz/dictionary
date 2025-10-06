@@ -1,0 +1,24 @@
+{
+    "finger": [
+        {
+            "type": "noun",
+            "definition": "An appendage that is attached to the human hand.",
+            "examples": [
+                "I ain't touching that saw, I almost cut off my finger last time!"
+            ],
+            "pronounciation": "fingë",
+            "synonyms": [
+                "appendage"
+            ],
+            "antonyms": [
+                "toe",
+                "foot"
+            ],
+            "related": [
+                "hand",
+                "arm",
+                "limb"
+            ]
+        }
+    ]
+}
