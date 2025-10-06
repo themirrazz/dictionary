@@ -69,6 +69,34 @@
             ]
         }
     ],
+    "arse": [
+        {
+            "type": "noun",
+            "definition": "A donkey.",
+            "dialect": "uk",
+            "archaic": true,
+            "examples": [
+                "He rode to town on his arse."
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "One's anus.",
+            "dialect": "uk",
+            "examples": [
+                "She has one thicc ass.",
+                "Hey, get up off your lazy arse!"
+            ]
+        },
+        {
+            "type": "noun",
+            "definition": "A stupid, contemptible, or annoying person.",
+            "dialect": "uk",
+            "examples": [
+                "Don't be an arse."
+            ]
+        }
+    ],
     "ass": [
         {
             "type": "noun",
@@ -81,7 +109,6 @@
         {
             "type": "noun",
             "definition": "One's anus.",
-            "vulgar": true,
             "examples": [
                 "She has one thicc ass.",
                 "Hey, get up off your lazy ass!"
@@ -90,7 +117,6 @@
         {
             "type": "noun",
             "definition": "A stupid, contemptible, or annoying person.",
-            "vulgar": true,
             "examples": [
                 "Don't be an ass."
             ]
